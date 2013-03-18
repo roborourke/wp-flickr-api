@@ -1,0 +1,36 @@
+/* flickr api plugin admin styles  */
+
+#flickr-form-inner {
+    
+}
+
+#flickr-form-inner p {
+    margin: 10px 0;
+}
+
+#flickr-form-inner fieldset {
+    border: 1px solid #ccc;
+    border-width: 1px 0;
+    padding: 10px 0;
+}
+
+#flickr-form-inner fieldset ul {
+    margin: 0;
+}
+
+.flickr-dropdown-box {
+    margin: 10px 0;
+}
+
+
+#wpcontent .flickr-tag-select {
+    height: 100px;
+}
+
+.widget .flickr-choices ul {
+    margin: 10px 0;
+}
+
+.widget .chzn-container {
+    width: 100% !important;
+}
